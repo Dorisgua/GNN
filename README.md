@@ -6,3 +6,6 @@
 1、根据教授推荐的第一个课程的知乎文章：https://zhuanlan.zhihu.com/p/474910032  
 1.1、特征中心性（Eigenvector Centrality）：邻接矩阵求特征值，最大的特征值的特征向量是结点的特征中心性
 1.2、PageRank算法
+
+## 参考代码
+1、https://github.com/shenweichen/GraphEmbedding  
