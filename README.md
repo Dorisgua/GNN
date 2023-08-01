@@ -9,3 +9,6 @@
 
 ## 参考代码
 1、https://github.com/shenweichen/GraphEmbedding  
+2、https://github.com/dmlc/dgl  
+3、https://github.com/tkipf/pygcn  
+4、https://github.com/microsoft/StemGNN
