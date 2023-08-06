@@ -11,6 +11,7 @@
 4.1、RNN、GRU、LSTM公式推导和矩阵变化：https://www.bilibili.com/video/BV1bM41127U4/?spm_id_from=333.337.search-card.all.click&vd_source=d41d9436176bce1bda70a199ed733891  
 5、代码敲日出：https://space.bilibili.com/128593710  
 5.1、深度强化学习基础(1/5)：基本概念 Deep Reinforcement Learning (1/5)：https://www.bilibili.com/video/BV1TQ4y1v7H5/?spm_id_from=333.788.recommend_more_video.0&vd_source=d41d9436176bce1bda70a199ed733891  
+6、梗直哥丶：https://space.bilibili.com/1921388479  
 ## 基础知识  
 1、根据教授推荐的第一个课程的知乎文章：https://zhuanlan.zhihu.com/p/474910032  
 1.1、特征中心性（Eigenvector Centrality）：邻接矩阵求特征值，最大的特征值的特征向量是结点的特征中心性
