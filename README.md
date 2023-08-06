@@ -1,4 +1,4 @@
-# GNN
+# GNN基础
 ## 教授推荐课程
 1、https://www.bilibili.com/video/BV1bM411j7Dn/?p=1&vd_source=cb7d64b7f888f01d3765b3617f666f8c  
 2、https://www.bilibili.com/video/BV1184y1x71H?p=1&vd_source=cb7d64b7f888f01d3765b3617f666f8c  
@@ -7,11 +7,15 @@
 1.1、特征中心性（Eigenvector Centrality）：邻接矩阵求特征值，最大的特征值的特征向量是结点的特征中心性
 1.2、PageRank算法
 
+## 动态图
+1、动态图分类：https://blog.csdn.net/Andre_Jan/article/details/123482122  
+2、CTDNE+JODIE：https://zhuanlan.zhihu.com/p/76229789  
+
 ## 参考代码
-1、https://github.com/shenweichen/GraphEmbedding  
+1、GraphEmbedding：https://github.com/shenweichen/GraphEmbedding  
 2、https://github.com/dmlc/dgl  
-3、https://github.com/tkipf/pygcn  
-4、https://github.com/microsoft/StemGNN
+3、GCN:https://github.com/tkipf/pygcn  
+4、StemGNN:https://github.com/microsoft/StemGNN
 
 # RL&GNN 
 ## 徐昕  
@@ -25,8 +29,6 @@
 ## 社交网络
 1、知识图谱 | （转）一文读懂社交网络分析： https://www.zhihu.com/tardis/bd/art/79102080  
 
-# 动态图
-1、CTDNE+JODIE：https://zhuanlan.zhihu.com/p/76229789  
 
 # Tensorflow安装
 1、https://www.bilibili.com/video/BV1FW4y1b7WM/?p=2&vd_source=d41d9436176bce1bda70a199ed733891  
