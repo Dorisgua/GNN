@@ -12,3 +12,7 @@
 2、https://github.com/dmlc/dgl  
 3、https://github.com/tkipf/pygcn  
 4、https://github.com/microsoft/StemGNN
+
+# RL&GNN 
+## 徐昕  
+1、徐昕的强化学习的特征表示与知识迁移： https://www.bilibili.com/video/BV1ib4y1Z7g6/?spm_id_from=333.788.recommend_more_video.-1  
