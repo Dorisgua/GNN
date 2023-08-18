@@ -1,7 +1,13 @@
 # GNN基础
 ## 教授推荐课程
-1、https://www.bilibili.com/video/BV1bM411j7Dn/?p=1&vd_source=cb7d64b7f888f01d3765b3617f666f8c  
-2、https://www.bilibili.com/video/BV1184y1x71H?p=1&vd_source=cb7d64b7f888f01d3765b3617f666f8c  
+### 1、https://www.bilibili.com/video/BV1bM411j7Dn/?p=1&vd_source=cb7d64b7f888f01d3765b3617f666f8c  
+### 2、【图神经网络实战】深入浅出地学习图神经网络GNN：https://www.bilibili.com/video/BV1184y1x71H?p=1&vd_source=cb7d64b7f888f01d3765b3617f666f8c  
+#### 2.1 【图神经网络实战】深入浅出地学习图神经网络GNN  笔记包含上下
+2.1.1 上：https://wskh0929.blog.csdn.net/article/details/127160151?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6-127160151-blog-128743284.235%5Ev38%5Epc_relevant_sort_base1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6-127160151-blog-128743284.235%5Ev38%5Epc_relevant_sort_base1&utm_relevant_index=12  
+2.1.2 下：https://wskh0929.blog.csdn.net/article/details/127184956?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-127184956-blog-127160151.235%5Ev38%5Epc_relevant_sort_base1&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-127184956-blog-127160151.235%5Ev38%5Epc_relevant_sort_base1&utm_relevant_index=1  
+#### 2.2 基于图神经网络的电商购买预测：   
+2.2.1 https://blog.csdn.net/weixin_42254289/article/details/131291198   
+2.2.2 https://www.cnblogs.com/lushuang55/p/17582746.html#1%E6%95%B0%E6%8D%AE%E4%BB%8B%E7%BB%8D  
 ## 自己发现的课程
 1、平凡的九月：https://space.bilibili.com/431392724  
 1.1、GNN科研入门路线：https://www.bilibili.com/video/BV1NK411D7pd/?spm_id_from=333.788&vd_source=d41d9436176bce1bda70a199ed733891  
