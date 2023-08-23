@@ -26,6 +26,9 @@
 ## 动态图
 1、动态图分类：https://blog.csdn.net/Andre_Jan/article/details/123482122  
 2、CTDNE+JODIE：https://zhuanlan.zhihu.com/p/76229789  
+### TGAT
+1、TGAT代码：https://github.com/dongkwan-kim/TGAT-REF/tree/master  
+2、TGAT official代码：https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs  
 
 ## 参考代码
 1、GraphEmbedding：https://github.com/shenweichen/GraphEmbedding  
