@@ -1,4 +1,4 @@
-# GNN基础
+# 一、GNN基础
 ## 教授推荐课程
 ### 1、https://www.bilibili.com/video/BV1bM411j7Dn/?p=1&vd_source=cb7d64b7f888f01d3765b3617f666f8c  
 ### 2、【图神经网络实战】深入浅出地学习图神经网络GNN：https://www.bilibili.com/video/BV1184y1x71H?p=1&vd_source=cb7d64b7f888f01d3765b3617f666f8c  
@@ -36,7 +36,7 @@
 3、GCN:https://github.com/tkipf/pygcn  
 4、好像是一个库:https://github.com/microsoft/StemGNN
 
-# RL&GNN 
+# 二、RL&GNN 
 ## 徐昕  
 1、徐昕的强化学习的特征表示与知识迁移： https://www.bilibili.com/video/BV1ib4y1Z7g6/?spm_id_from=333.788.recommend_more_video.-1  
 2、逆强化学习算法、理论与应用研究综述： http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c230081  
@@ -50,9 +50,9 @@
 ## 社交网络
 1、知识图谱 | （转）一文读懂社交网络分析： https://www.zhihu.com/tardis/bd/art/79102080  
 
-# Tensorflow安装
+# 三、Tensorflow安装
 1、https://www.bilibili.com/video/BV1FW4y1b7WM/?p=2&vd_source=d41d9436176bce1bda70a199ed733891  
 2、清华镜像：https://mirrors-i.tuna.tsinghua.edu.cn/raspberry-pi-os/raspbian/pool/main/p/pandas/  
 
-# 深度学习
+# 四、深度学习
 1、一套课程，动手学深度学习，有GRU和LSTM:https://courses.d2l.ai/zh-v2/  
