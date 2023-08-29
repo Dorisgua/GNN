@@ -56,3 +56,6 @@
 
 # 四、深度学习
 1、一套课程，动手学深度学习，有GRU和LSTM:https://courses.d2l.ai/zh-v2/  
+
+# 五、数据集
+1、有很多参考：https://blog.csdn.net/qq_37246345/article/details/106382120?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-106382120-blog-131675786.235%5Ev38%5Epc_relevant_sort_base1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-106382120-blog-131675786.235%5Ev38%5Epc_relevant_sort_base1&utm_relevant_index=5  
