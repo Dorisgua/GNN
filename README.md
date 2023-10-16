@@ -49,6 +49,7 @@
 
 ## 社交网络
 1、知识图谱 | （转）一文读懂社交网络分析： https://www.zhihu.com/tardis/bd/art/79102080  
+2、超图和动态图结合 https://github.com/slingling/MS-HGAT/tree/main  
 
 # 三、Tensorflow安装
 1、https://www.bilibili.com/video/BV1FW4y1b7WM/?p=2&vd_source=d41d9436176bce1bda70a199ed733891  
